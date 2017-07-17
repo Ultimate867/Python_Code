@@ -1,5 +1,4 @@
-#Junior Peralta
-#April 11, 2014
+
 #return.py
 #Returns the number of positive integers in a list of integers.
 
