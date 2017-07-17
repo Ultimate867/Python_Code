@@ -1,5 +1,3 @@
-# Junior Peralta
-# April 9, 2014
 # fill.py
 # Fill in the missing function definitions
 # Write the functions setUp(), userInput(), displayLine() and conclusion().
